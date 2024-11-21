@@ -1,0 +1,22 @@
+[
+  {
+    "ContainingType": "Practica06_FNavas.Controllers.CategoriaController",
+    "Method": "Listado",
+    "RelativePath": "api/Categorias/Listar",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": [
+      {
+        "Type": "System.Collections.Generic.List\u00601[[Practica06_FNavas.Models.Categorium, Practica06_FNavas, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  }
+]
