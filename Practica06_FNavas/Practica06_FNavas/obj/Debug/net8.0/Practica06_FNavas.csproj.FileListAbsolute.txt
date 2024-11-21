@@ -170,3 +170,4 @@ C:\Users\navas\Documents\GitHub\Practica06_FNavas\Practica06_FNavas\Practica06_F
 C:\Users\navas\Documents\GitHub\Practica06_FNavas\Practica06_FNavas\Practica06_FNavas\obj\Debug\net8.0\Practica06_FNavas.pdb
 C:\Users\navas\Documents\GitHub\Practica06_FNavas\Practica06_FNavas\Practica06_FNavas\obj\Debug\net8.0\Practica06_FNavas.genruntimeconfig.cache
 C:\Users\navas\Documents\GitHub\Practica06_FNavas\Practica06_FNavas\Practica06_FNavas\obj\Debug\net8.0\ref\Practica06_FNavas.dll
+C:\Users\navas\Documents\GitHub\Practica06_FNavas\Practica06_FNavas\Practica06_FNavas\obj\Debug\net8.0\Practica06_FNavas.sourcelink.json

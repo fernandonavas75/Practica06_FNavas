@@ -125,5 +125,13 @@ namespace Practica06_FNavas.Controllers
                 return StatusCode(StatusCodes.Status500InternalServerError, $"Error al eliminar el producto: {ex.Message}");
             }
         }
+        [HttpGet]
+        [Route("BusquedaXNombre")]
+        public List<Producto> BuscarXNombre(String criterio) { 
+            var productos = context.Productos
+            .Where(p => p.Nombre.Contains(criterio))
+            .ToList();
+            return productos;
+        }
     }
 }

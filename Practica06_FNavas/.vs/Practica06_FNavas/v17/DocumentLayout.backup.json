@@ -7,8 +7,8 @@
       "RelativeMoniker": "D:0:0:{D9E78C41-0F5F-421E-84A4-0F31516E43E6}|Practica06_FNavas\\Practica06_FNavas.csproj|solutionrelative:practica06_fnavas\\controllers\\productoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D9E78C41-0F5F-421E-84A4-0F31516E43E6}|Practica06_FNavas\\Practica06_FNavas.csproj|c:\\users\\navas\\documents\\github\\practica06_fnavas\\practica06_fnavas\\practica06_fnavas\\controllers\\clientecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D9E78C41-0F5F-421E-84A4-0F31516E43E6}|Practica06_FNavas\\Practica06_FNavas.csproj|solutionrelative:practica06_fnavas\\controllers\\clientecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{D9E78C41-0F5F-421E-84A4-0F31516E43E6}|Practica06_FNavas\\Practica06_FNavas.csproj|c:\\users\\navas\\documents\\github\\practica06_fnavas\\practica06_fnavas\\practica06_fnavas\\models\\producto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D9E78C41-0F5F-421E-84A4-0F31516E43E6}|Practica06_FNavas\\Practica06_FNavas.csproj|solutionrelative:practica06_fnavas\\models\\producto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{D9E78C41-0F5F-421E-84A4-0F31516E43E6}|Practica06_FNavas\\Practica06_FNavas.csproj|c:\\users\\navas\\documents\\github\\practica06_fnavas\\practica06_fnavas\\practica06_fnavas\\controllers\\categoriacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -17,6 +17,18 @@
     {
       "AbsoluteMoniker": "D:0:0:{D9E78C41-0F5F-421E-84A4-0F31516E43E6}|Practica06_FNavas\\Practica06_FNavas.csproj|c:\\users\\navas\\documents\\github\\practica06_fnavas\\practica06_fnavas\\practica06_fnavas\\controllers\\carritocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D9E78C41-0F5F-421E-84A4-0F31516E43E6}|Practica06_FNavas\\Practica06_FNavas.csproj|solutionrelative:practica06_fnavas\\controllers\\carritocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9E78C41-0F5F-421E-84A4-0F31516E43E6}|Practica06_FNavas\\Practica06_FNavas.csproj|c:\\users\\navas\\documents\\github\\practica06_fnavas\\practica06_fnavas\\practica06_fnavas\\models\\carrito.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D9E78C41-0F5F-421E-84A4-0F31516E43E6}|Practica06_FNavas\\Practica06_FNavas.csproj|solutionrelative:practica06_fnavas\\models\\carrito.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9E78C41-0F5F-421E-84A4-0F31516E43E6}|Practica06_FNavas\\Practica06_FNavas.csproj|c:\\users\\navas\\documents\\github\\practica06_fnavas\\practica06_fnavas\\practica06_fnavas\\controllers\\clientecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D9E78C41-0F5F-421E-84A4-0F31516E43E6}|Practica06_FNavas\\Practica06_FNavas.csproj|solutionrelative:practica06_fnavas\\controllers\\clientecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9E78C41-0F5F-421E-84A4-0F31516E43E6}|Practica06_FNavas\\Practica06_FNavas.csproj|c:\\users\\navas\\documents\\github\\practica06_fnavas\\practica06_fnavas\\practica06_fnavas\\models\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D9E78C41-0F5F-421E-84A4-0F31516E43E6}|Practica06_FNavas\\Practica06_FNavas.csproj|solutionrelative:practica06_fnavas\\models\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{D9E78C41-0F5F-421E-84A4-0F31516E43E6}|Practica06_FNavas\\Practica06_FNavas.csproj|c:\\users\\navas\\documents\\github\\practica06_fnavas\\practica06_fnavas\\practica06_fnavas\\models\\categorium.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -46,29 +58,27 @@
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 7,
               "Title": "Categorium.cs",
               "DocumentMoniker": "C:\\Users\\navas\\Documents\\GitHub\\Practica06_FNavas\\Practica06_FNavas\\Practica06_FNavas\\Models\\Categorium.cs",
               "RelativeDocumentMoniker": "Practica06_FNavas\\Models\\Categorium.cs",
               "ToolTip": "C:\\Users\\navas\\Documents\\GitHub\\Practica06_FNavas\\Practica06_FNavas\\Practica06_FNavas\\Models\\Categorium.cs",
               "RelativeToolTip": "Practica06_FNavas\\Models\\Categorium.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-21T01:12:55.811Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-21T01:12:55.811Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 5,
               "Title": "ClienteController.cs",
               "DocumentMoniker": "C:\\Users\\navas\\Documents\\GitHub\\Practica06_FNavas\\Practica06_FNavas\\Practica06_FNavas\\Controllers\\ClienteController.cs",
               "RelativeDocumentMoniker": "Practica06_FNavas\\Controllers\\ClienteController.cs",
               "ToolTip": "C:\\Users\\navas\\Documents\\GitHub\\Practica06_FNavas\\Practica06_FNavas\\Practica06_FNavas\\Controllers\\ClienteController.cs",
               "RelativeToolTip": "Practica06_FNavas\\Controllers\\ClienteController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAXAAAAAAAAAA==",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAQwBkAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-21T01:12:35.388Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-21T01:12:35.388Z"
             },
             {
               "$type": "Document",
@@ -78,7 +88,7 @@
               "RelativeDocumentMoniker": "Practica06_FNavas\\Controllers\\CarritoController.cs",
               "ToolTip": "C:\\Users\\navas\\Documents\\GitHub\\Practica06_FNavas\\Practica06_FNavas\\Practica06_FNavas\\Controllers\\CarritoController.cs",
               "RelativeToolTip": "Practica06_FNavas\\Controllers\\CarritoController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAARAAAAAAAAAA==",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAI0AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-21T01:06:21.12Z",
               "EditorCaption": ""
@@ -91,7 +101,7 @@
               "RelativeDocumentMoniker": "Practica06_FNavas\\Controllers\\ProductosController.cs",
               "ToolTip": "C:\\Users\\navas\\Documents\\GitHub\\Practica06_FNavas\\Practica06_FNavas\\Practica06_FNavas\\Controllers\\ProductosController.cs",
               "RelativeToolTip": "Practica06_FNavas\\Controllers\\ProductosController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAARAAAAAAAAAA==",
+              "ViewState": "AgIAAHUAAAAAAAAAAAAuwIUAAAAdAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-21T01:06:04.632Z",
               "EditorCaption": ""
@@ -104,23 +114,35 @@
               "RelativeDocumentMoniker": "Practica06_FNavas\\Controllers\\CategoriaController.cs",
               "ToolTip": "C:\\Users\\navas\\Documents\\GitHub\\Practica06_FNavas\\Practica06_FNavas\\Practica06_FNavas\\Controllers\\CategoriaController.cs",
               "RelativeToolTip": "Practica06_FNavas\\Controllers\\CategoriaController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAJAAAAAAAAAA==",
+              "ViewState": "AgIAABAAAAAAAAAAAAAgwHAAAAA8AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-21T00:56:43.883Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "WeatherForecast.cs",
-              "DocumentMoniker": "C:\\Users\\navas\\Documents\\GitHub\\Practica06_FNavas\\Practica06_FNavas\\Practica06_FNavas\\WeatherForecast.cs",
-              "RelativeDocumentMoniker": "Practica06_FNavas\\WeatherForecast.cs",
-              "ToolTip": "C:\\Users\\navas\\Documents\\GitHub\\Practica06_FNavas\\Practica06_FNavas\\Practica06_FNavas\\WeatherForecast.cs",
-              "RelativeToolTip": "Practica06_FNavas\\WeatherForecast.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 1,
+              "Title": "Producto.cs",
+              "DocumentMoniker": "C:\\Users\\navas\\Documents\\GitHub\\Practica06_FNavas\\Practica06_FNavas\\Practica06_FNavas\\Models\\Producto.cs",
+              "RelativeDocumentMoniker": "Practica06_FNavas\\Models\\Producto.cs",
+              "ToolTip": "C:\\Users\\navas\\Documents\\GitHub\\Practica06_FNavas\\Practica06_FNavas\\Practica06_FNavas\\Models\\Producto.cs",
+              "RelativeToolTip": "Practica06_FNavas\\Models\\Producto.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAuwBcAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-21T01:06:26.113Z",
+              "WhenOpened": "2024-11-21T01:26:29.248Z",
               "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Carrito.cs",
+              "DocumentMoniker": "C:\\Users\\navas\\Documents\\GitHub\\Practica06_FNavas\\Practica06_FNavas\\Practica06_FNavas\\Models\\Carrito.cs",
+              "RelativeDocumentMoniker": "Practica06_FNavas\\Models\\Carrito.cs",
+              "ToolTip": "C:\\Users\\navas\\Documents\\GitHub\\Practica06_FNavas\\Practica06_FNavas\\Practica06_FNavas\\Models\\Carrito.cs",
+              "RelativeToolTip": "Practica06_FNavas\\Models\\Carrito.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-21T01:24:46.095Z"
             },
             {
               "$type": "Bookmark",
@@ -128,7 +150,31 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
+              "Title": "Cliente.cs",
+              "DocumentMoniker": "C:\\Users\\navas\\Documents\\GitHub\\Practica06_FNavas\\Practica06_FNavas\\Practica06_FNavas\\Models\\Cliente.cs",
+              "RelativeDocumentMoniker": "Practica06_FNavas\\Models\\Cliente.cs",
+              "ToolTip": "C:\\Users\\navas\\Documents\\GitHub\\Practica06_FNavas\\Practica06_FNavas\\Practica06_FNavas\\Models\\Cliente.cs",
+              "RelativeToolTip": "Practica06_FNavas\\Models\\Cliente.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAYwBUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-21T01:24:49.093Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "WeatherForecast.cs",
+              "DocumentMoniker": "C:\\Users\\navas\\Documents\\GitHub\\Practica06_FNavas\\Practica06_FNavas\\Practica06_FNavas\\WeatherForecast.cs",
+              "RelativeDocumentMoniker": "Practica06_FNavas\\WeatherForecast.cs",
+              "ToolTip": "C:\\Users\\navas\\Documents\\GitHub\\Practica06_FNavas\\Practica06_FNavas\\Practica06_FNavas\\WeatherForecast.cs",
+              "RelativeToolTip": "Practica06_FNavas\\WeatherForecast.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-21T01:06:26.113Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
               "Title": "Practica06_FNavas.http",
               "DocumentMoniker": "C:\\Users\\navas\\Documents\\GitHub\\Practica06_FNavas\\Practica06_FNavas\\Practica06_FNavas\\Practica06_FNavas.http",
               "RelativeDocumentMoniker": "Practica06_FNavas\\Practica06_FNavas.http",
@@ -136,12 +182,11 @@
               "RelativeToolTip": "Practica06_FNavas\\Practica06_FNavas.http",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAwAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
-              "WhenOpened": "2024-11-21T00:57:40.982Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-21T00:57:40.982Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 10,
               "Title": "SupermarketContext.cs",
               "DocumentMoniker": "C:\\Users\\navas\\Documents\\GitHub\\Practica06_FNavas\\Practica06_FNavas\\Practica06_FNavas\\Models\\SupermarketContext.cs",
               "RelativeDocumentMoniker": "Practica06_FNavas\\Models\\SupermarketContext.cs",
@@ -149,8 +194,7 @@
               "RelativeToolTip": "Practica06_FNavas\\Models\\SupermarketContext.cs",
               "ViewState": "AgIAAAoAAAAAAAAAAAAgwAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-21T00:52:36.201Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-21T00:52:36.201Z"
             }
           ]
         }
